@@ -17,7 +17,7 @@ body {
   overflow: hidden;
   background-color: darkgray;
 }
-#userstring {
+#user-string-textarea {
   width: 100%;
   margin: 5px 0;
   height: 25px;
