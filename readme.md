@@ -2,4 +2,4 @@
 
 <p>Made to ensure commit messages are the correct length</p>
 
-<strike><a href="" tagret="_blank">Live Site</a></strike>
+<a href="https://devbypaul.com/charcount" tagret="_blank">Live Site - https://devbypaul.ca/charcount</a>
