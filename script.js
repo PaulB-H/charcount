@@ -1,8 +1,8 @@
 "use strict";
 
 const userStringTextarea = document.getElementById("user-string-textarea");
-const stringlength = document.getElementById("stringlength");
+const displayStringLength = document.getElementById("display-string-length");
 
 const countChars = () => {
-  stringlength.innerText = userStringTextarea.value.length;
+  displayStringLength.innerText = userStringTextarea.value.length;
 };
